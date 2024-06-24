@@ -34,7 +34,7 @@ namespace MalinoOS
        public static void Main()
         {
             Console.WriteLine("Malino booted successfully. Let's go in Graphical Mode");
-            canvas = FullScreenCanvas.GetFullScreenCanvas(new Mode(640, 480, ColorDepth.ColorDepth32));
+            canvas = new Canvas();
             canvas.Clear(Color.Blue);
             while(true)
             {
