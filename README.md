@@ -1,3 +1,5 @@
+# Installation
+`git clone https://github.com/Samma2009/MalinoGraphicsSubsystem.git`
 # Example code
 ```csharp
 using System;
