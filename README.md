@@ -1,5 +1,6 @@
 # Installation
 `git clone https://github.com/Samma2009/MalinoGraphicsSubsystem.git`
+use this command to clone MGS into your malino project
 # Example code
 ```csharp
 using System;
