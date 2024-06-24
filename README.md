@@ -4,8 +4,6 @@ use this command to clone MGS into your malino project
 # Example code
 ```csharp
 using System;
-using Sys = Cosmos.System;
-using Cosmos.System.Graphics;
 
 namespace MalinoOS
 {
