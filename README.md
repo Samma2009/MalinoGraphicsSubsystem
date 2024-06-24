@@ -75,3 +75,5 @@ namespace MalinoOS
     }
 }
 ```
+# MGS does not have your resolution?
+create a resolutions list with [MGSResGen](https://github.com/Samma2009/MGSResgen)
