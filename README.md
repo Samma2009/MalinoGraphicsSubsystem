@@ -68,7 +68,7 @@ namespace MalinoOS
             }
             catch (Exception e)
             {
-                Debugger.Send("Exception occurred: " + e.Message);
+                Console.WriteLine("Exception occurred: " + e.Message);
             }
         }
     }
